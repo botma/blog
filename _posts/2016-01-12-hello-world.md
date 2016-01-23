@@ -3,9 +3,8 @@ published: true
 title: hello blog
 layout: post
 author: Lin Jiang
-category: articles
+category: 随笔
 tags: 
-- test
 - hello
 ---
 

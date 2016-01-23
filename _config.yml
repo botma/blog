@@ -66,3 +66,5 @@ highlighter: pygments
 gems: [jekyll-paginate]
 paginate: 10
 excerpt_separator: <!-- more -->
+permalink: /:year/:month/:day/:title
+exclude: ['tmp']

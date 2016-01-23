@@ -32,6 +32,9 @@ layout: default
   <hr />
 </div>
 
+	 <div style="margin:1.5em;">
+         <span> <a href="{{ page.url| prepend: site.baseurl}}" > 版权所有，转载时必须以链接形式注明原始出处</a></span>
+	 </div>
 
  <div class="prevandnext">
     	  {% if page.next %}
@@ -44,9 +47,6 @@ layout: default
 	    <span>下一篇 ：</span><a class="pjaxlink" href="{{ site.baseurl }}{{ page.previous.url }}"  title="{{ page.previous.title }}">{{ page.previous.title }}</a>
 	    </div>
 	  {% endif %}
-	  	<div style="margin:0.5em;">
-			<span> 版权所有，转载时必须以链接形式注明原始出处</span>
-	    </div>
 	 
   </div>
   

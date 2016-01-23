@@ -37,7 +37,7 @@ layout: default
       {% if post.content contains site.excerpt_separator %}
       {{ post.excerpt }}
       {% else %}
-      {{ post.content | strip_html | truncatewords:50}}
+      {{ post.content | strip_html | truncatewords:10 }}
       {% endif %}
       <p style="text-align: right"><a href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
     </article>
