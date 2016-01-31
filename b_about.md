@@ -6,23 +6,10 @@ permalink: /about/
 ---
 
 
-### Freshman21 is a Jekyll theme.
+Hello，欢迎访问我的博客。
 
-A tribute to Twenty Twelve and Twenty eleven.
+都来到这里了，在评论里留下你的脚印吧 :)
 
-I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
-So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
+我会在这个博客会分享一些技术上的收获，一些读书笔记，以及一些想法。
 
-Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
-
-<cite>Proudly enjoy using Freshman21 theme.</cite> <code>;)</code>
-
-<img title="麋鹿" src="https://i.imgur.com/Mdc4szJl.jpg" alt="麋鹿" width="580" height="668" />
-
-#### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
-
-
-Milu(麋鹿) is the chinese name of Père David's deer.
-
-All photos on this website are copyrighted material and all rights are reserved.
 
